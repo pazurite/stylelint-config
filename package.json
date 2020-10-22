@@ -14,9 +14,9 @@
     "stylelint-order"
   ],
   "author": "Hieu Huynh <hieu.huynh@pazurite.com>",
-  "homepage": "https://github.com/stormwarning/stylelint-config-recess-order",
-  "bugs": "https://github.com/stormwarning/stylelint-config-recess-order/issues",
-  "repository": "stormwarning/stylelint-config-recess-order",
+  "homepage": "https://github.com/pazurite/stylelint-config",
+  "bugs": "https://github.com/pazurite/stylelint-config/issues",
+  "repository": "pazurite/stylelint-config",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^7.11.0",
