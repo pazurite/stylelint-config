@@ -1,0 +1,34 @@
+{
+  "name": "@pazurite/stylelint-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "stylelint src --fix"
+  },
+  "keywords": [
+    "properties-order",
+    "property order",
+    "stylelint",
+    "stylelint-config",
+    "stylelint-order"
+  ],
+  "author": "Hieu Huynh <hieu.huynh@pazurite.com>",
+  "homepage": "https://github.com/stormwarning/stylelint-config-recess-order",
+  "bugs": "https://github.com/stormwarning/stylelint-config-recess-order/issues",
+  "repository": "stormwarning/stylelint-config-recess-order",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.11.0",
+    "eslint-config-prettier": "^6.13.0",
+    "husky": "^4.3.0",
+    "lint-staged": "^10.4.2",
+    "prettier": "^2.1.2",
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-sass-guidelines": "^7.1.0",
+    "stylelint-order": "^4.1.0"
+  },
+  "peerDependencies": {
+    "stylelint": ">=13.7.2"
+  }
+}
