@@ -42,7 +42,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["husky", "npm:4.3.0"],
             ["lint-staged", "npm:10.4.2"],
             ["prettier", "npm:2.1.2"],
-            ["stylelint-config-prettier", "virtual:0d2d564807bd6b0153ea7820b184718d558245e7d365baf9b4ce4ae7ca4543573a2848df1cb0904a294e6ac362f31503e13965acf09d14e6cd8333a76165e023#npm:8.0.2"],
             ["stylelint-config-sass-guidelines", "virtual:0d2d564807bd6b0153ea7820b184718d558245e7d365baf9b4ce4ae7ca4543573a2848df1cb0904a294e6ac362f31503e13965acf09d14e6cd8333a76165e023#npm:7.1.0"],
             ["stylelint-order", "virtual:0d2d564807bd6b0153ea7820b184718d558245e7d365baf9b4ce4ae7ca4543573a2848df1cb0904a294e6ac362f31503e13965acf09d14e6cd8333a76165e023#npm:4.1.0"]
           ],
@@ -109,7 +108,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["husky", "npm:4.3.0"],
             ["lint-staged", "npm:10.4.2"],
             ["prettier", "npm:2.1.2"],
-            ["stylelint-config-prettier", "virtual:0d2d564807bd6b0153ea7820b184718d558245e7d365baf9b4ce4ae7ca4543573a2848df1cb0904a294e6ac362f31503e13965acf09d14e6cd8333a76165e023#npm:8.0.2"],
             ["stylelint-config-sass-guidelines", "virtual:0d2d564807bd6b0153ea7820b184718d558245e7d365baf9b4ce4ae7ca4543573a2848df1cb0904a294e6ac362f31503e13965acf09d14e6cd8333a76165e023#npm:7.1.0"],
             ["stylelint-order", "virtual:0d2d564807bd6b0153ea7820b184718d558245e7d365baf9b4ce4ae7ca4543573a2848df1cb0904a294e6ac362f31503e13965acf09d14e6cd8333a76165e023#npm:4.1.0"]
           ],
@@ -1877,21 +1875,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/strip-json-comments-npm-3.1.1-dcb2324823-f16719ce25.zip/node_modules/strip-json-comments/",
           "packageDependencies": [
             ["strip-json-comments", "npm:3.1.1"]
-          ],
-          "linkType": "HARD",
-        }]
-      ]],
-      ["stylelint-config-prettier", [
-        ["virtual:0d2d564807bd6b0153ea7820b184718d558245e7d365baf9b4ce4ae7ca4543573a2848df1cb0904a294e6ac362f31503e13965acf09d14e6cd8333a76165e023#npm:8.0.2", {
-          "packageLocation": "./.yarn/$$virtual/stylelint-config-prettier-virtual-139869bab1/0/cache/stylelint-config-prettier-npm-8.0.2-768ded0ce2-dd7b09ed02.zip/node_modules/stylelint-config-prettier/",
-          "packageDependencies": [
-            ["stylelint-config-prettier", "virtual:0d2d564807bd6b0153ea7820b184718d558245e7d365baf9b4ce4ae7ca4543573a2848df1cb0904a294e6ac362f31503e13965acf09d14e6cd8333a76165e023#npm:8.0.2"],
-            ["@types/stylelint", null],
-            ["stylelint", null]
-          ],
-          "packagePeers": [
-            "@types/stylelint",
-            "stylelint"
           ],
           "linkType": "HARD",
         }]
